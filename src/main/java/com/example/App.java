@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello, Jenkins webhook trigger 1ST trigger ");
+        System.out.println("Hello, Jenkins my webhook trigger ");
     }
 
     public int add(int a, int b) {
